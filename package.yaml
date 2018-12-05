@@ -11,6 +11,8 @@ dependencies:
 - neat-interpolation
 - text
 - containers
+- attoparsec
+- extra
 
 extra-source-files:
 - README.md
