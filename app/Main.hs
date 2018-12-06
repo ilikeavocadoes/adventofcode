@@ -1,6 +1,6 @@
 module Main where
 
-import Fifth
+import FifthAlternative
 
 main :: IO ()
 main = advent
